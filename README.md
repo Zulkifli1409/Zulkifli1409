@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/zul-kifli-2345b624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zul-kifli-2345b624a" height="30" width="40" /></a>
 <a href="https://instagram.com/zulkiflii.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zulkiflii.i" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zoel14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zoel14" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Zoel14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zoel14" height="30" width="40" /></a>
 <a href="https://discord.gg/zoel1409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zoel1409" height="30" width="40" /></a>
 </p>
 
