@@ -8,7 +8,7 @@ Hi, I'm Zulkifli, and I'm proud to call Indonesia my home. As a student at Polit
 
 🚀 **Continual Learning:** I'm constantly expanding my knowledge and skills. Besides my academic endeavors, I'm also self-learning various technologies like Laravel, HTML, CSS, React, and more.
 
-🎮 **Fun Fact: ** When I'm not working on coding or projects, I spend time playing video games and exercising a lot to keep my body healthy.
+🎮 **Fun Fact:** When I'm not working on coding or projects, I spend time playing video games and exercising a lot to keep my body healthy.
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zulkiflii.i/)
