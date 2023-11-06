@@ -1,5 +1,4 @@
 # 💫 About Me
-
 <div align="center">
   <img src="https://media.giphy.com/media/uaJLuMokII24w/giphy.gif" alt="Coding Gif" />
 </div>
@@ -35,6 +34,7 @@ Hi, I'm Zulkifli, and I'm proud to call Indonesia my home. As a student at Polit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulkifli1409&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="300" />
   <img src="https://github-readme-stats.vercel.app/api?username=Zulkifli1409&theme=radical&hide_border=false&include_all_commits=false&count_private=true" width="300" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zulkifli1409&theme=radical&hide_border=false" width="300" />
+</div>
 
 # ✍️ Random Dev Quote
 <div align="center">
