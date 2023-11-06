@@ -1,5 +1,9 @@
 # 💫 About Me
 
+<div align="center">
+  <img src="https://media.giphy.com/media/uaJLuMokII24w/giphy.gif" alt="Coding Gif" />
+</div>
+
 Hi, I'm Zulkifli, and I'm proud to call Indonesia my home. As a student at Politeknik Negeri Lhokseumawe, I'm on an exciting journey to acquire knowledge and hone my skills in the field of Information Technology. Currently, I'm pursuing my studies in the Informatics Engineering program.
 
 📚 **My Academic Pursuits:** My passion for technology and programming led me to choose this path in higher education. I'm dedicated to learning and exploring the vast world of computer science and software development.
@@ -32,4 +36,9 @@ Hi, I'm Zulkifli, and I'm proud to call Indonesia my home. As a student at Polit
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zulkifli1409&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <blockquote>
+    <p><em><b>Jika lapar, Makanlah</b></em></p>
+  </blockquote>
+</div>
+
