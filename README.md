@@ -36,7 +36,7 @@ Hi, I'm Zulkifli, and I'm proud to call Indonesia my home. As a student at Polit
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zulkifli1409&theme=radical&hide_border=false" width="300" />
 </div>
 
-# ✍️ Random Dev Quote
+# ✍️ Motivation
 <div align="center">
   <blockquote>
     <p><em><b>Jika lapar, Makanlah</b></em></p>
