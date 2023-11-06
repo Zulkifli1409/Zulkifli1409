@@ -31,9 +31,10 @@ Hi, I'm Zulkifli, and I'm proud to call Indonesia my home. As a student at Polit
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zulkifli1409&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zulkifli1409&theme=radical&hide_border=false)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zulkifli1409&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulkifli1409&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zulkifli1409&theme=radical&hide_border=false&include_all_commits=false&count_private=true" width="300" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zulkifli1409&theme=radical&hide_border=false" width="300" />
 
 # ✍️ Random Dev Quote
 <div align="center">
